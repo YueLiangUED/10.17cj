@@ -1,3 +1,7 @@
+body{
+    width: 37.5rem;
+    overflow-x: hidden;
+}
 .top_nav {
     display: flex;
     display: -webkit-flex;
