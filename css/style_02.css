@@ -125,8 +125,8 @@ body{
 .icon_01 {
     position: absolute;
     top: 9.5rem;
-    left: -1.3rem;
-    width: 5rem;
+    left: 0;
+    width: 4rem;
     height: 6.2rem;
     background-image: url("../images/icon_01.png");
     background-repeat: no-repeat;
@@ -135,10 +135,10 @@ body{
     z-index: 500;
 }
 .icon_02 {
-    position: absolute;
-    bottom: -1rem;
-    right: -0.5rem;
-    width: 6.25rem;
+position: absolute;
+    bottom: 0;
+    right: 0;
+    width: 5.85rem;
     height: 7.95rem;
     background-image: url("../images/icon_02.png");
     background-repeat: no-repeat;
